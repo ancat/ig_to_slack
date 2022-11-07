@@ -1,0 +1,3 @@
+instagrapi @ git+https://git@github.com/adw0rd/instagrapi.git@143ebe895c93be817d0f29d3a00872920489312e
+Pillow==8.1.1
+requests
